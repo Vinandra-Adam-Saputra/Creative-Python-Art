@@ -18,7 +18,6 @@ This repository is a collection of Python scripts that use the `turtle` graphics
 - **Characters**: Draw iconic characters like Pikachu, Doraemon, and more.
 - **Shapes**: Create beautiful shapes like roses, hearts, stars, etc.
 - **Animations**: Add simple animations to bring your drawings to life.
-- **Interactivity**: Some scripts include interactive features (e.g., moving characters with keyboard input).
 - **Customizable**: Easily modify colors, sizes, and positions to make the art your own.
 
 ---
