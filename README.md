@@ -1,7 +1,10 @@
 # Python Turtle Art Collection
 
-![Python Turtle Art](https://via.placeholder.com/800x400?text=Python+Turtle+Art)  
-*(Replace this placeholder with an actual screenshot of your artwork)*
+![image](https://github.com/user-attachments/assets/fb25a5ce-28cd-4543-87a0-e6969712b5c4)
+
+![image](https://github.com/user-attachments/assets/30f0789c-7910-456a-9f56-57583236ba62)
+
+![image](https://github.com/user-attachments/assets/de6c5143-6cf3-480b-8217-75a6439a6bb2)
 
 Welcome to the **Python Turtle Art Collection**, a repository dedicated to creative drawings made using Python's `turtle` module. This project includes various characters and shapes such as Pikachu, Doraemon, roses, hearts, and more!
 
